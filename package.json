@@ -1,0 +1,24 @@
+{
+  "name": "rdsmysql-nodejs",
+  "version": "1.0.0",
+  "main": "crud-rds-mysql-nodejs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fontainerafamant/crud-mysql-nodejs-API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fontainerafamant/crud-mysql-nodejs-API/issues"
+  },
+  "homepage": "https://github.com/fontainerafamant/crud-mysql-nodejs-API#readme",
+  "description": ""
+}
